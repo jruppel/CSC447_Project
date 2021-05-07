@@ -6755,3 +6755,11 @@ button.close {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
+
+#hermits_advice {
+  color: white;
+}
+/* The true solution will be in one of the "tower" ids*/
+#tower, #towers_advice {
+  visibility: hidden;
+}

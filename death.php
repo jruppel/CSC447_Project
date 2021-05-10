@@ -14,15 +14,15 @@
 		</style>
 	<body>
                             <div>
-                                          <img src="tarot/chariot.png">
+                                          <img src="tarot/stegged/death.png">
                                           <h2>
-                                                        The chariot stands before you.
+                                                        Death stands before you.
                                           </h2>
                                           <hr>
                                           <br>
                                           <h3>"
-                                                        This leads naught but to a dead end.
-                                                        Return to the deck and try your luck once more.
+                                                 This leads naught but to a dead end.
+                                                 Return to the deck and try your luck once more.
                                           "</h3>
                           </div>
               </body>

@@ -14,15 +14,16 @@
 		</style>
 	<body>
                             <div>
-                                          <img src="tarot/chariot.png">
+                                          <img src="tarot/star.png">
                                           <h2>
-                                                        The chariot stands before you.
+                                                        The star stands before you.
                                           </h2>
                                           <hr>
                                           <br>
                                           <h3>"
                                                         This leads naught but to a dead end.
-                                                        Return to the deck and try your luck once more.
+                                                        <br>
+                                                        May you find what you are looking for elsewhere.
                                           "</h3>
                           </div>
               </body>

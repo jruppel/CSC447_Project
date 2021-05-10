@@ -14,9 +14,9 @@
 		</style>
 	<body>
                             <div>
-                                          <img src="tarot/chariot.png">
+                                          <img src="tarot/devil.png">
                                           <h2>
-                                                        The chariot stands before you.
+                                                        The devil stands before you.
                                           </h2>
                                           <hr>
                                           <br>

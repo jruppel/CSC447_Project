@@ -14,15 +14,14 @@
 		</style>
 	<body>
                             <div>
-                                          <img src="tarot/chariot.png">
+                                          <img src="tarot/highpriestess.png">
                                           <h2>
-                                                        The chariot stands before you.
+                                                        The high priestess stands before you.
                                           </h2>
                                           <hr>
                                           <br>
                                           <h3>"
-                                                        This leads naught but to a dead end.
-                                                        Return to the deck and try your luck once more.
+                                          A picture is worth a thousand words.
                                           "</h3>
                           </div>
               </body>

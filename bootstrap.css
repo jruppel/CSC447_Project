@@ -6755,3 +6755,14 @@ button.close {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
+#hermits_advice {
+  color: white;
+}
+/* The true solution will be in one of the "tower" ids*/
+#tower, #_, #hierophant, #hierophants_advice, #wheeloffortune_advice {
+  visibility: hidden;
+}
+#victory {
+  background-color: peru;
+  color: blanchedalmond;
+}

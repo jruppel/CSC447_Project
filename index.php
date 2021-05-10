@@ -16,7 +16,7 @@
 	</head>
 	<body>
 		<div class="page-header">
-			<h1>Hi, <b><?php echo htmlspecialchars($_SESSION["username"]); ?></b>. Welcome to our challenge!</h1>
+			<h1>Hi, welcome to our challenge!</h1>
 		</div>
 		<p>
 			<a href="reset-password.php" class="btn btn-warning">Reset Your Password</a>

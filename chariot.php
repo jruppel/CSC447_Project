@@ -11,7 +11,7 @@
 			}
 		</style>
 	<body>
-                            <div>
+			<div>
                                           <img src="tarot/chariot.png">
                                           <h2>
                                                         The chariot stands before you.
@@ -22,6 +22,6 @@
                                                         This leads naught but to a dead end.
                                                         Return to the deck and try your luck once more.
                                           "</h3>
-                          </div>
-              </body>
+			</div>
+	</body>
 </html>

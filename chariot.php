@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
 <meta charset="UTF-8">
-<title>Welcome</title>
 <link rel="stylesheet" href="bootstrap.css">
 <style type="text/css">
               body {
@@ -10,7 +8,6 @@
                             text-align: center;
               }
 </style>
-</head>
 <body>
               <div>
                             <img src="tarot/chariot.png">
@@ -18,7 +15,4 @@
                             <hr>
                             <br>
                             <h3>" This leads naught but to a dead end. Return to the deck and try your luck once more. "</h3>
-              </div>
-</body>
-
-</html>
+                
